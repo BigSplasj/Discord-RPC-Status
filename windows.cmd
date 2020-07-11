@@ -1,4 +1,4 @@
 @echo off
-title Discord RPC Status
+title Develop BigSplsh
 node status.js
 pause
